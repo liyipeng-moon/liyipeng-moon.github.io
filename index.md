@@ -19,12 +19,10 @@
 </table>
 
 ### Research Interests
-```
 1. Visual Science in general, both artificial and biological.
 2. Cortical surface hyperalignment and its application;
 3. developing deep models revealing the role of visual experience on the functional structure of vision system. 
 4. The effect of how electrical stimulation on the IT cortex impact object recognition function.
-```
 
 ### Research Experience & Project Outcome
 
