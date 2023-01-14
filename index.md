@@ -24,12 +24,12 @@
 1. Visual Science in general, both artificial and biological.
 2. Cortical surface hyperalignment and its application;
 3. developing deep models revealing the role of visual experience on the functional structure of vision system. 
-4. My future research would focus on how electrical stimulation on the IT cortex impact object recognition function.
+4. The effect of how electrical stimulation on the IT cortex impact object recognition function.
 ```
 
 ### Research Experience & Project Outcome
 
-To investigate a problem in systems neuroscience, I can conduct functional magnetic resonance, macaque electrophysiology, and psychophysics experiments, and analyze cognitive function in combination with artificial neural networks.
+To investigate a problem in systems neuroscience, I can conduct functional magnetic resonance imagning & macaque electrophysiology & psychophysics experiments, and analyze the rules of cognitive function in combination with artificial neural networks.
 <dl>
 <dd>1. test</dd>
 <dl>
