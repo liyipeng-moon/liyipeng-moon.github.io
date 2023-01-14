@@ -7,26 +7,29 @@
   <tr>
     <td width="60%">
       <h1>Yipeng Li & 李依朋</h1>
-      <p><b>PhD Student</b></p>
-      <p><b>Center for Life Sciences</b></p>
-      <p><b>Peking University, Beijing, China</b></p>
+      <p><b>PhD Student at Center for Life Sciences, Peking University</b></p>
+      <p><b>Bachelor of Psychology and Economics, Peking University</b></p>
       <p><b>E-mail: <a href="mailto: 1800013731@pku.edu.cn">1800013731@pku.edu.cn</a> </b></p>
-      <p><b>Video Homepage: <a "https://space.bilibili.com/279718842">bilibili</a> </b></p>
+      <p><b>Video Homepage: (https://space.bilibili.com/279718842)</a> </b></p>
     </td>
     <td width="40%">
-      <img src="https://github.com/liyipeng-moon/liyipeng-moon.github.io/raw/main/img/1.jpeg" width="100%">  
+      <img src="https://github.com/liyipeng-moon/liyipeng-moon.github.io/raw/main/img/1.jpeg" width="100%">
+      <img src="https://github.com/liyipeng-moon/liyipeng-moon.github.io/raw/main/img/2.jpeg" width="100%">  
     </td>
   </tr>
 </table>
 
 ### Research Interests
 ```
-1. 
+1. Visual Science in general, both artificial and biological.
+2. Cortical surface hyperalignment and its application;
+3. developing deep models revealing the role of visual experience on the functional structure of vision system. 
+4. My future research would focus on how electrical stimulation on the IT cortex impact object recognition function.
 ```
 
 ### Research Experience & Project Outcome
 
-I have the experience and skills of ...
+To investigate a problem in systems neuroscience, I can conduct functional magnetic resonance, macaque electrophysiology, and psychophysics experiments, and analyze cognitive function in combination with artificial neural networks.
 <dl>
 <dd>1. test</dd>
 <dl>
