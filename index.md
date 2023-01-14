@@ -6,9 +6,10 @@
 <table border="0">
   <tr>
     <td width="60%">
-      <h1>Yipeng Li</h1>
+      <h1>Yipeng Li & 李依朋</h1>
       <p><b>PhD Student</b></p>
-      <p><b>Center for Life Sciences, Peking University, Beijing, China</b></p>
+      <p><b>Center for Life Sciences</b></p>
+      <p><b>Peking University, Beijing, China</b></p>
       <p><b>E-mail: <a href="mailto: 1800013731@pku.edu.cn">1800013731@pku.edu.cn</a> </b></p>
       <p><b>Video Homepage: <a "https://space.bilibili.com/279718842">bilibili</a> </b></p>
     </td>
@@ -28,14 +29,4 @@
 I have the experience and skills of ...
 <dl>
 <dd>1. test</dd>
-
-
-</dl>
-
-
-### Academic Activities
-
 <dl>
-<dd>1. 
-
-</dl>
