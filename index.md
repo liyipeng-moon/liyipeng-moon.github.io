@@ -10,7 +10,7 @@
       <p><b>PhD Student at Center for Life Sciences, Peking University</b></p>
       <p><b>Bachelor of Psychology and Economics, Peking University</b></p>
       <p><b>E-mail: <a href="mailto: 1800013731@pku.edu.cn">1800013731@pku.edu.cn</a> </b></p>
-      <p><b>Video Homepage: (https://space.bilibili.com/279718842)</a> </b></p>
+      <p><b>Video Homepage: <a href="https://space.bilibili.com/279718842" bilibili主页 </a> </b></p>
     </td>
     <td width="40%">
       <img src="https://github.com/liyipeng-moon/liyipeng-moon.github.io/raw/main/img/1.jpeg" width="100%">
