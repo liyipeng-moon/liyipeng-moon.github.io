@@ -10,7 +10,7 @@
       <p><b>Video Homepage: <a href="mailto: https://space.bilibili.com/279718842">bilibili</a></b></p>
     </td>
     <td width="20%">
-      <img src="https://github.com/liyipeng-moon/liyipeng-moon.github.io/raw/main/img1.jpg" width="100%">  
+      <img src="https://github.com/liyipeng-moon/liyipeng-moon.github.io/raw/main/img/1.jpeg" width="100%">  
     </td>
   </tr>
 </table>
