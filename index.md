@@ -26,7 +26,7 @@
 
 ### Research Experience & Project Outcome
 
-To investigate a problem in systems neuroscience, I can conduct functional magnetic resonance imagning & macaque electrophysiology & psychophysics experiments, and analyze the rules of cognitive function in combination with artificial neural networks.
+To investigate a problem in systems neuroscience, I can conduct fMRI & electrophysiology & psychophysics experiments, and analyze the rules of cognitive function in combination with artificial neural networks.
 <dl>
 <dd>1. test</dd>
 <dl>
