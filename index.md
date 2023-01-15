@@ -32,9 +32,8 @@ I possess a diverse set of skills that allow me to effectively investigate probl
 <dd>2. During my rotation with professor Shiming Tang, I conducted single photon calcium imaging experiments on awake macaques to examine the response of the inferior temporal cortex to natural images. I combined the single photon data with fMRI data from humans viewing the same images, and used pixel-vertex mapping and clustering methods to cluster the cortical response patterns. Additionally, I compared the results obtained from various methods such as categorical selectivity, object space tuning, and deep neural network modeling, to verify and expand previous research on the tuning patterns of the inferior temporal cortex.</dd>
 <dd>3. Under the supervision of professor Pinglei Bao and Jia Yang, I trained various convolutional deep neural networks to examine the impact of visual experience on the representation space of the visual system. The paper is currently in the process of being written.</dd>
 <dd>4. Currently, I am rotating in Professor Yang Zhou's laboratory, I am using fMRI to investigate brain regions that represent general categories in the human brain, regardless of perceptual modality. This study mainly uses the searchlight method to examine the performance of decoders in cross-modal decoding.</dd>
-<dl>
+
 
 ### Psychtoolbox Tutorial
-<dd>As a TA for the course "Research Methods in Psychology: Matlab and Psychtoolbox," I independently created a free and open-source Chinese tutorial for Psychtoolbox, covering basic usage of Matlab, image processing, stimulus presentation, response collection, and creation of statistical graphs. The tutorial videos can be found at the following link.
+As a TA for the course "Research Methods in Psychology: Matlab and Psychtoolbox," I independently created a free and open-source Chinese tutorial for Psychtoolbox, covering basic usage of Matlab, image processing, stimulus presentation, response collection, and creation of statistical graphs. The tutorial videos can be found at the following link.
 <p><b><a href="https://www.bilibili.com/video/BV1xL411K7xv/"> Psychtoolbox Tutorial</a> </b></p>
- </dd>
