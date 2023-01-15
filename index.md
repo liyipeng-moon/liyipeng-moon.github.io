@@ -12,8 +12,8 @@
       <p><b>Video Homepage: <a href="https://space.bilibili.com/279718842"> bilibili主页 </a> </b></p>
     </td>
     <td width="40%">
-      <img src="github.com/liyipeng-moon/liyipeng-moon.github.io/raw/main/img/1.jpeg" width="100%">
-      <img src="github.com/liyipeng-moon/liyipeng-moon.github.io/raw/main/img/2.jpeg" width="100%">  
+      <img src="https://github.com/liyipeng-moon/liyipeng-moon.github.io/raw/main/img/1.jpeg" width="100%">
+      <img src="https://github.com/liyipeng-moon/liyipeng-moon.github.io/raw/main/img/2.jpeg" width="100%">  
     </td>
   </tr>
 </table>
