@@ -12,7 +12,8 @@
       <p><b>Video Homepage: <a href="https://space.bilibili.com/279718842"> bilibili主页 </a> </b></p>
     </td>
     <td width="50%">
-      <img src="https://i.328888.xyz/2023/01/17/21N43.jpeg" width="100%">  
+      <img src="https://i.328888.xyz/2023/01/17/21v9d.jpeg" width="100%">
+      <img src="https://i.328888.xyz/2023/01/17/21KNq.jpeg" width="100%">  
     </td>
   </tr>
 </table>
@@ -36,3 +37,9 @@ I possess a diverse set of skills that allow me to investigate problems in the f
 
 As a TA for the course "Research Methods in Psychology: Matlab and Psychtoolbox," I independently created a free and open-source Chinese tutorial for Psychtoolbox, covering basic usage of Matlab, image processing, stimulus presentation, response collection, and creation of statistical graphs. The tutorial videos can be found at the following link.
 <p><b><a href="https://www.bilibili.com/video/BV1xL411K7xv/"> Psychtoolbox Tutorial</a> </b></p>
+
+### Random
+<img src="https://i.328888.xyz/2023/01/17/21PZw.jpeg" width="100%">
+<img src="https://i.328888.xyz/2023/01/17/21THa.jpeg" width="100%">
+<img src="https://i.328888.xyz/2023/01/17/21qBp.jpeg" width="100%">
+<img src="https://i.328888.xyz/2023/01/17/21uJU.jpeg" width="100%">
