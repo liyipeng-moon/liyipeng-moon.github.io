@@ -1,20 +1,18 @@
 <img src="https://i.328888.xyz/2023/01/17/210dw.png" width="100%">  
-<img src="https://github.com/liyipeng-moon/liyipeng-moon.github.io/raw/main/img/1.png" width="100%">  
 
 ### MoonL
 
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="50%">
       <h1>Yipeng Li & 李依朋</h1>
       <p><b>PhD Student at Center for Life Sciences, Peking University</b></p>
       <p><b>Bachelor of Psychology at SPCS, PKU & Bachelor of Economics at NSD, PKU</b></p>
       <p><b>E-mail: <a href="mailto: 1800013731@pku.edu.cn">1800013731@pku.edu.cn</a> </b></p>
       <p><b>Video Homepage: <a href="https://space.bilibili.com/279718842"> bilibili主页 </a> </b></p>
     </td>
-    <td width="40%">
+    <td width="50%">
       <img src="https://i.328888.xyz/2023/01/17/21N43.jpeg" width="100%">  
-      <img src="https://github.com/liyipeng-moon/liyipeng-moon.github.io/raw/main/img/2.jpeg" width="100%">  
     </td>
   </tr>
 </table>
