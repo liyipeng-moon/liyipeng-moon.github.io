@@ -11,8 +11,10 @@
       <p><b>E-mail: <a href="mailto: 1800013731@pku.edu.cn">1800013731@pku.edu.cn</a> </b></p>
       <p><b>Video Homepage: <a href="https://space.bilibili.com/279718842"> bilibili主页 </a> </b></p>
     </td>
-    <td width="50%">
+    <td width="25%">
       <img src="https://i.328888.xyz/2023/01/17/21v9d.jpeg" width="100%">
+    </td>
+    <td width="25%">
       <img src="https://i.328888.xyz/2023/01/17/21KNq.jpeg" width="100%">  
     </td>
   </tr>
