@@ -1,5 +1,4 @@
 ## Welcome to YipengLi's Personal Homepage
-## 欢迎来到李依朋的主页
 
 
 <table border="0">
