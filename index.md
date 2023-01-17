@@ -1,5 +1,4 @@
-<img src="https://i.328888.xyz/2023/01/17/210dw.png" alt="210dw.png" border="0" />
-
+<img src="https://i.328888.xyz/2023/01/17/210dw.pn" width="100%">  
 <table border="0">
   <tr>
     <td width="60%">
