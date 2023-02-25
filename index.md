@@ -35,10 +35,18 @@ I possess a diverse set of skills that allow me to investigate problems in the f
 3. Under the supervision of professor Pinglei Bao and Jia Yang, I trained various convolutional deep neural networks to examine the impact of visual experience on the representation space of the visual system. The paper is currently in the process of being written.
 4. Currently, I am rotating in professor Yang Zhou's laboratory, I am using fMRI to investigate brain regions that represent general categories in the human brain, regardless of perceptual modality. This study mainly uses the searchlight method to examine the performance of decoders in cross-modal decoding.
 
-### Psychtoolbox Tutorial
+### Other Project
+#### Psychtoolbox Tutorial
 
 As a TA for the course "Research Methods in Psychology: Matlab and Psychtoolbox," I independently created a free and open-source Chinese tutorial for Psychtoolbox, covering basic usage of Matlab, image processing, stimulus presentation, response collection, and creation of statistical graphs. The tutorial videos can be found at the following link.
 <p><b><a href="https://www.bilibili.com/video/BV1xL411K7xv/"> Psychtoolbox Tutorial</a> </b></p>
+
+#### BAM Online Analysis System
+
+Combined with MonkeyLogic and AlphaOmega, this software can read electrophysiological data, experimental operation data and other necessary data in real time and perform user-specified analysis, such as category selection or closed-loop iterative generation.
+<p><b><a href="https://github.com/liyipeng-moon/BAM_online_analysis/"> BAM Online Analysis System</a> 
+</b></p>
+
 
 ### Random
 <img src="https://i.328888.xyz/2023/01/17/21PZw.jpeg" width="100%">
