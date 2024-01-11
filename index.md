@@ -1,6 +1,4 @@
-### MoonL
-
-<table border="10">
+<table border="12">
   <tr>
     <td width="100%">
       <h2>Yipeng Li & 李依朋</h2>
@@ -22,7 +20,7 @@
 ## Research Experience
 Combining of experimental methods such as fMRI, electrophysiology and calcium imaging and computational techniques, I attempt to understand the computational mechanisms of high-level visual functions in the primate brain.
 
-1. Under the supervision of Dr. Pinglei Bao, I completed my undergraduate thesis titled "Cortical hyperalignment with static images: validity and mechanism." I used the visual response to static images to effectively align the surface from different subjects. The results showed that this method can be used to predict subject-specific topographic feature, such as categorical selectivity, retinotopic mapping, image-by-image response etc.
+1. Under the supervision of Dr. Pinglei Bao, I completed my undergraduate thesis titled "Cortical hyperalignment with static images: validity and mechanism." I used the visual response to static images to align the brain surface from different subjects. This method can be used to predict subject-specific topographic feature, such as categorical selectivity, retinotopic preference and image-by-image response.
 2. During my rotation with Dr. Shiming Tang, I conducted single-photon widefield calcium imaging experiments on awake macaques to examine the response of the inferior temporal cortex to natural images. I combined the single photon data with fMRI data from humans viewing the same images, and used pixel-vertex mapping and clustering methods to cluster the cortical response patterns.
 3. Under the supervision of Dr.Pinglei Bao and Dr.Jia Yang, I trained various convolutional deep neural networks to examine the impact of visual experience on the representation space of the visual system.
 
@@ -35,8 +33,8 @@ As a TA for the course "Research Methods in Psychology: Matlab and Psychtoolbox,
 
 ### BAM Online Analysis System
 
-Combined with MonkeyLogic and AlphaOmega, this software can read electrophysiological data, experimental-related data and other necessary data in real time and perform user-specified analysis, such as category selection or closed-loop image generation.
-<p><b><a href="https://github.com/liyipeng-moon/BAM_online_analysis/"> BAM Online Analysis System V2</a> 
+Combined with MonkeyLogic and AlphaOmega, this software can read electrophysiological data, experimental-related data and other necessary data in real time and perform user-specified analysis, such as categorical PSTH or closed-loop image generation.
+<p><b><a href="https://github.com/liyipeng-moon/BAM_Online_Analysis_v2/"> BAM Online Analysis System V2</a> 
 </b></p>
 
 ### DIY eye tracker
