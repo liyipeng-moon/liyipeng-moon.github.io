@@ -1,44 +1,91 @@
-<table border="12">
-  <tr>
-    <td width="100%">
-      <h2>Yipeng Li & 李依朋</h2>
-      <p><b>PhD Student at Center for Life Sciences, Peking University</b></p>
-      <p><b>Bachelor of Psychology at SPCS, PKU & Bachelor of Economics at NSD, PKU</b></p>
-      <p><b>E-mail: <a href="mailto: 1800013731@pku.edu.cn">1800013731@pku.edu.cn</a> </b></p>
-      <p><b>Video Homepage: <a href="https://space.bilibili.com/279718842"> bilibili home page </a> </b></p>
-    </td>
-  </tr>
-</table>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Yipeng Li · 李依朋</title>
+  <style>
+    body {
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      background: #f9f9f9;
+      color: #333;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    a {
+      color: #007acc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .header {
+      background: #ffffff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+      margin-bottom: 30px;
+    }
+    .section {
+      margin-bottom: 40px;
+    }
+    .email {
+      font-family: monospace;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
 
-## Research Interests
-0. Visual Science in general, both artificial and biological.
-1. The role of visual experience on the functional structure of vision system. 
-2. The encoding of categorical-selective neuron to non-prefered images.
-3. The calsual role of IT cortex on object recognition function.
-4. Cortical surface hyperalignment and its application.
 
-## Research Experience
-Combining of experimental methods such as fMRI, electrophysiology and calcium imaging and computational techniques, I attempt to understand the computational mechanisms of high-level visual functions in the primate brain.
-
-1. Under the supervision of Dr. Pinglei Bao, I completed my undergraduate thesis titled "Cortical hyperalignment with static images: validity and mechanism." I used the visual response to static images to align the brain surface from different subjects. This method can be used to predict subject-specific topographic feature, such as categorical selectivity, retinotopic preference and image-by-image response.
-2. During my rotation with Dr. Shiming Tang, I conducted single-photon widefield calcium imaging experiments on awake macaques to examine the response of the inferior temporal cortex to natural images. I combined the single photon data with fMRI data from humans viewing the same images, and used pixel-vertex mapping and clustering methods to cluster the cortical response patterns.
-3. Under the supervision of Dr.Pinglei Bao and Dr.Jia Yang, I trained various convolutional deep neural networks to examine the impact of visual experience on the representation space of the visual system.
+  <div class="header">
+    <h1>Yipeng Li · 李依朋</h1>
+    <p><strong>PhD Student</strong> at Center for Life Sciences, Peking University</p>
+    <p><strong>Psychology & Economics Bachelor</strong> at PKU (SPCS & NSD)</p>
+    <p><strong>Email:</strong> <a class="email" href="mailto:moonl@pku.edu.cn">moonl@pku.edu.cn</a></p>
+    <p><strong>Video Homepage:</strong> <a href="https://space.bilibili.com/279718842" target="_blank">Bilibili</a></p>
+  </div>
 
 
-## Other Project
-### Psychtoolbox Tutorial
 
-As a TA for the course "Research Methods in Psychology: Matlab and Psychtoolbox," I made a free and open-source Chinese tutorial for Psychtoolbox, covering basic usage of Matlab, image processing, stimulus presentation, response collection, and statistics. The tutorial videos can be found at the following link.
-<p><b><a href="https://www.bilibili.com/video/BV1xL411K7xv/"> Psychtoolbox Tutorial</a> </b></p>
+<div class="section">
+  <div style="background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 30px;">
+    <h2 style="margin-top: 0;">Research Interests</h2>
+    <p>My research interests center around visual science, spanning both biological and artificial systems. I am particularly intrigued by:</p>
+    <ol>
+      <li>How visual experience shapes the functional architecture of the visual system;</li>
+      <li>How category-selective neurons encode non-preferred images;</li>
+      <li>The causal role of the inferior temporal (IT) cortex in object recognition;</li>
+    </ol>
+    <p>My research methods integrate a combination of non-human-primate  functional magnetic resonance imaging (fMRI), high-density electrophysiology recording, and calcium imaging and computational modeling.</p>
+  </div>
+</div>
 
-### BAM Online Analysis System
+  
+<div class="section">
+  <h2>Other Projects</h2>
 
-Combined with MonkeyLogic and AlphaOmega, this software can read electrophysiological data, experimental-related data and other necessary data in real time and perform user-specified analysis, such as categorical PSTH or closed-loop image generation.
-<p><b><a href="https://github.com/liyipeng-moon/BAM_Online_Analysis_v2/"> BAM Online Analysis System V2</a> 
-</b></p>
+  <div style="background: #fff; padding: 15px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); margin-bottom: 20px;">
+    <h3>Psychtoolbox Tutorial</h3>
+    <p>As a TA for a PKU course, I created a full Chinese tutorial on Psychtoolbox, covering MATLAB basics, stimulus presentation, response collection, and more.</p>
+    <p><strong>Video:</strong> <a href="https://www.bilibili.com/video/BV1xL411K7xv/" target="_blank">Watch on Bilibili</a></p>
+  </div>
 
-### DIY eye tracker
-Matlab Eye Tracking Software Based on Infrared Camera, with Analog Output
-<p><b><a href="https://github.com/liyipeng-moon/My_Eye_tracker/"> My_Eye_tracker</a> 
-</b></p>
+  <div style="background: #fff; padding: 15px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); margin-bottom: 20px;">
+    <h3>BAM Online Analysis System</h3>
+    <p>A real-time electrophysiology analysis platform integrated with MonkeyLogic and AlphaOmega, supporting live PSTH and closed-loop image generation.</p>
+    <p><strong>GitHub:</strong> <a href="https://github.com/liyipeng-moon/BAM_Online_Analysis_v2/" target="_blank">View project</a></p>
+  </div>
+
+  <div style="background: #fff; padding: 15px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+    <h3>DIY Eye Tracker</h3>
+    <p>An infrared-based MATLAB eye-tracking system with analog output, built for custom lab experiments.</p>
+    <p><strong>GitHub:</strong> <a href="https://github.com/liyipeng-moon/My_Eye_tracker/" target="_blank">View project</a></p>
+  </div>
+</div>
+
 
